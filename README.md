@@ -2,6 +2,8 @@
 
 
 ## Citation
+Please consider citing the paper if you find the code useful in your research.
+
 @InProceedings{VS_CVPR2024,
   author={Liu, Leyuan and Li, Yuhan and Gao, Yunqi and Gao, Changxin and Liu, Yuanyuan and Chen, Jingying},
   booktitle=IEEE/CVF Conference on Computer Vision and Pattern Recognition, 
