@@ -1,6 +1,6 @@
 # VS: Reconstructing Clothed 3D Human from Single Image via Vertex Shift
 
-The code and models of VS is coming soon!
+The code and models of VS are coming soon!
 
 ## Citation
 Please consider citing the paper if you find the code useful in your research.
