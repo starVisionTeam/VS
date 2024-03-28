@@ -13,4 +13,4 @@ Please consider citing the paper if you find the code useful in your research.
 }
 ```
 ## Contact
-The code is released. And we are still updating it. If you have any trouble when using this repo, please do not hesitate to send an E-mail to Leyuan Liu(lyliu@mail.ccnu.edu.cn)
+We are still updating the code. If you have any trouble using this repo, please do not hesitate to E-mail Leyuan Liu (lyliu@mail.ccnu.edu.cn) or Yunhan Li (609806700@qq.com).
