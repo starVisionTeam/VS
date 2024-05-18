@@ -12,7 +12,7 @@ Experimental results on three benchmarks and two in-the-wild datasets demonstrat
 
 ## Qualitative Results
 ![](https://github.com/naivate/VS/blob/master/V2-ezgif.com-video-to-gif-converter%20(1).gif)
-![](https://github.com/naivate/VS/blob/master/v1-ezgif.com-video-to-gif-converter%20(1).gif)
+
 
 ## Citation
 Please consider citing the paper if you find the code useful in your research.
