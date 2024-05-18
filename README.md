@@ -27,11 +27,7 @@ Please consider citing the paper if you find the code useful in your research.
 ```
 
 ## Installation
-### Install "Manifold" 
-This code relies on the [Robust Watertight Manifold Software](https://github.com/hjwdzh/Manifold). 
-First ```cd``` into the location you wish to install the software. For example, we used ```cd ~/code```.
-Then follow the installation instructions in the Watertight README.
-If you installed Manifold in a different path than ```~/code/Manifold/build```,  accordingly (see [this line](https://github.com/starVisionTeam/VS/blob/b36e4c7bfa3a2b7b6a4a6463ad96c14e56fe0f83/Mr/util/util.py#L9))
+
 ### Environment
 - Ubuntu 20 / 18
 - **CUDA=11.6, GPU Memory > 12GB**
@@ -39,6 +35,12 @@ If you installed Manifold in a different path than ```~/code/Manifold/build```, 
 - PyTorch >= 1.13.0 (official [Get Started](https://pytorch.org/get-started/locally/))
 - Cupy >= 11.3.0 (offcial [Installation](https://docs.cupy.dev/en/stable/install.html#installing-cupy-from-pypi))
 - PyTorch3D = 0.7.2 (official [INSTALL.md](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md), recommend [install-from-local-clone](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md#2-install-from-a-local-clone))
+- 
+### Install "Manifold" 
+This code relies on the [Robust Watertight Manifold Software](https://github.com/hjwdzh/Manifold). 
+First ```cd``` into the location you wish to install the software. For example, we used ```cd ~/code```.
+Then follow the installation instructions in the Watertight README.
+If you installed Manifold in a different path than ```~/code/Manifold/build```,  accordingly (see [this line](https://github.com/starVisionTeam/VS/blob/b36e4c7bfa3a2b7b6a4a6463ad96c14e56fe0f83/Mr/util/util.py#L9))
 
 ```bash
 cd VS
