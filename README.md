@@ -1,5 +1,5 @@
 # VS: Reconstructing Clothed 3D Human from Single Image via Vertex Shift
-#### <p align="center">Leyuan Liu, Yuhan Li, Yunqi Gao, Changxin Gao, Jingying Chen</p>
+#### <p align="center">Leyuan Liu, Yuhan Li, Yunqi Gao, Changxin Gao, Yuanyuan Liu, Jingying Chen</p>
 
 ***
 Various applications require high-fidelity and artifact-free 3D human reconstructions. However, current implicit function-based methods inevitably produce artifacts while existing deformation methods are difficult to reconstruct high-fidelity humans wearing loose clothing.
