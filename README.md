@@ -1,6 +1,6 @@
 # VS: Reconstructing Clothed 3D Human from Single Image via Vertex Shift
 
-The code and models are coming soon!
+
 ## Installation
 ### Install "Manifold" 
 This code relies on the [Robust Watertight Manifold Software](https://github.com/hjwdzh/Manifold). 
