@@ -21,7 +21,7 @@ conda env create -f environment.yaml
 conda activate VS
 pip install -r requirements.txt
 ```
-## Download Pre-trained model and Related SMPL-X data 
+### Download Pre-trained model and Related SMPL-X data 
 Link：https://pan.baidu.com/s/1GDk1d6p5FEzd4Y1mSY9UTg
 
 Access Code：vsvs.
