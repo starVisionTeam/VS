@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ```bash
 python -m apps.infer -in_dir ./examples -out_dir ./results
-
+```
 ## Citation
 Please consider citing the paper if you find the code useful in your research.
 ```
