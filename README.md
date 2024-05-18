@@ -21,6 +21,9 @@ conda env create -f environment.yaml
 conda activate VS
 pip install -r requirements.txt
 ```
+## Download Pre-trained model and Related SMPL-X data 
+
+ The `latest_net.pth` is saved under `./VS/Mr/checkpoints/debug/`,`pifuhd.pt` is saved under `./VS/pifuhd_ori/`,`data` is saved under `./VS/`.
 ## Quick Start
 
 ```bash
