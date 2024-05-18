@@ -10,6 +10,22 @@ The graph convolutional network's ability to exploit neighborhood vertices coupl
 As a result, VS can reconstruct high-fidelity and artifact-less clothed 3D humans from single images, even under scenarios of challenging poses and loose clothing.
 Experimental results on three benchmarks and two in-the-wild datasets demonstrate that VS significantly outperforms current state-of-the-art methods. 
 
+## Qualitative Results
+![](https://github.com/naivate/VS/blob/master/tinywow_V2_56147770.gif)
+![](https://github.com/naivate/VS/blob/master/tinywow_v1_56146223.gif)
+
+## Citation
+Please consider citing the paper if you find the code useful in your research.
+```
+@InProceedings{VS_CVPR2024,
+  author = {Liu, Leyuan and Li, Yuhan and Gao, Yunqi and Gao, Changxin and Liu, Yuanyuan and Chen, Jingying},
+  booktitle = IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 
+  title = {VS: Reconstructing Clothed 3D Human from Single Image via Vertex Shift}, 
+  year = {2024},
+  pages = {1-10}
+}
+```
+
 ## Installation
 ### Install "Manifold" 
 This code relies on the [Robust Watertight Manifold Software](https://github.com/hjwdzh/Manifold). 
@@ -41,21 +57,7 @@ Access Code：vsvs.
 ```bash
 python -m apps.infer -in_dir ./examples -out_dir ./results
 ```
-## Qualitative Results
-![](https://github.com/naivate/VS/blob/master/tinywow_V2_56147770.gif)
-![](https://github.com/naivate/VS/blob/master/tinywow_v1_56146223.gif)
 
-## Citation
-Please consider citing the paper if you find the code useful in your research.
-```
-@InProceedings{VS_CVPR2024,
-  author = {Liu, Leyuan and Li, Yuhan and Gao, Yunqi and Gao, Changxin and Liu, Yuanyuan and Chen, Jingying},
-  booktitle = IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 
-  title = {VS: Reconstructing Clothed 3D Human from Single Image via Vertex Shift}, 
-  year = {2024},
-  pages = {1-10}
-}
-```
 
 ## Acknowledgements
 Note that the *** code of this repo is based on ***. We thank the authors for their great job!
