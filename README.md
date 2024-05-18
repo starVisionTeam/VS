@@ -11,8 +11,8 @@ As a result, VS can reconstruct high-fidelity and artifact-less clothed 3D human
 Experimental results on three benchmarks and two in-the-wild datasets demonstrate that VS significantly outperforms current state-of-the-art methods. 
 
 ## Qualitative Results
-![](https://github.com/naivate/VS/blob/master/tinywow_V2_56147770.gif)
-![](https://github.com/naivate/VS/blob/master/tinywow_v1_56146223.gif)
+![](https://github.com/naivate/VS/blob/master/V2-ezgif.com-video-to-gif-converter.gif)
+![](https://github.com/naivate/VS/blob/master/v1-ezgif.com-video-to-gif-converter.gif)
 
 ## Citation
 Please consider citing the paper if you find the code useful in your research.
