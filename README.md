@@ -6,7 +6,7 @@ The code and models are coming soon!
 This code relies on the [Robust Watertight Manifold Software](https://github.com/hjwdzh/Manifold). 
 First ```cd``` into the location you wish to install the software. For example, we used ```cd ~/code```.
 Then follow the installation instructions in the Watertight README.
-If you installed Manifold in a different path than ```~/code/Manifold/build```, please update ```options.py``` accordingly (see [this line](https://github.com/starVisionTeam/VS/blob/b36e4c7bfa3a2b7b6a4a6463ad96c14e56fe0f83/Mr/util/util.py#L9))
+If you installed Manifold in a different path than ```~/code/Manifold/build```,  accordingly (see [this line](https://github.com/starVisionTeam/VS/blob/b36e4c7bfa3a2b7b6a4a6463ad96c14e56fe0f83/Mr/util/util.py#L9))
 ### Environment
 - Ubuntu 20 / 18
 - **CUDA=11.6, GPU Memory > 12GB**
