@@ -20,7 +20,7 @@ cd VS
 conda env create -f environment.yaml
 conda activate VS
 pip install -r requirements.txt
-
+```
 ## Quick Start
 
 ```bash
