@@ -43,7 +43,6 @@ Please consider citing the paper if you find the code useful in your research.
   pages = {1-10}
 }
 ```
-## VcgPoeple Dataset
 
 ## Acknowledgements
 Note that the *** code of this repo is based on ***. We thank the authors for their great job!
