@@ -25,6 +25,7 @@ Please consider citing the paper if you find the code useful in your research.
   pages = {10498-10507}
 }
 ```
+The paper can be downloaded from [here](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_VS_Reconstructing_Clothed_3D_Human_from_Single_Image_via_Vertex_CVPR_2024_paper.html).
 
 ## Installation
 
